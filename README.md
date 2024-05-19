@@ -7,3 +7,5 @@ my knowledge in computer science. My goal is to apply my learning to real-world 
 📚 Enthusiast for continuous learning, especially in C++.
 🌱 Open to collaborating on open-source projects and innovative ideas.
 Let's connect and create something amazing together!
+
+My Social Media's ![Link] (https://bio.site/hamidr.me)
