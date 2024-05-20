@@ -20,4 +20,4 @@ Currently :
 
 ## 📬 Contact
 
-**LinkedIn**: You can Contact me by [Link](www.linkedin.com/in/hamidrezaghavami)
+**LinkedIn**: You can contact me via the [Link](www.linkedin.com/in/hamidrezaghavami)
