@@ -20,4 +20,4 @@ Currently :
 
 ## 📬 Contact
 
-**LinkedIn**: You can contact me via the [Link](https://bio.site/hamidrghavami)
+**LinkedIn**: You can contact me via the [Link](https://bio.site/haamidghavami)
