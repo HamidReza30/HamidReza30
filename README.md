@@ -7,7 +7,7 @@ I'm a Computer Engineering student for a bachelor's degree with a passion for co
 
 💻 Proficient in Java with a growing interest in software development. 
 
-📚 Enthusiast for continuous learning, especially in Java and front-end development. 
+📚 Enthusiast for continuous learning, especially in Java and back-end development. 
 
 🌱 Open to collaborating on open-source projects and innovative ideas. Let's connect and create something amazing together!
 ## ⌨️ Skills
